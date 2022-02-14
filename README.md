@@ -12,7 +12,7 @@
   - data e hora atualizadas
   - inserir som de toque
   ## Tela
-  ![tela Calculadora](https://github.com/MaiconCampbell/Surpresinha_Mega/blob/main/src/img/TelaInicial.png)
+  ![tela Calculadora](https://github.com/MaiconCampbell/CloneCalculadora/blob/master/src/img/tela%20inicial.png)
 
 <div>
   <p style='font-size: 22px'>
